@@ -1,2 +1,2 @@
-libscrc == 1.7.1
+libscrc == 1.8.1
 pyserial == 3.4
